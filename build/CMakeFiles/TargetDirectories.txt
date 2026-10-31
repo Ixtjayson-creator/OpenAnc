@@ -1,0 +1,4 @@
+D:/OpenANC/build/CMakeFiles/ANC_CORE.dir
+D:/OpenANC/build/CMakeFiles/OpenANCApp.dir
+D:/OpenANC/build/CMakeFiles/ALL_BUILD.dir
+D:/OpenANC/build/CMakeFiles/ZERO_CHECK.dir

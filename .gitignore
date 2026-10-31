@@ -1,5 +1,5 @@
 # Build outputs
-build/
+# build/ tracked by request
 bin/
 out/
 
@@ -10,16 +10,17 @@ out/
 *.VC.db
 *.opendb
 
-# Compiled artifacts
-*.obj
-*.exe
-*.pdb
-*.ilk
-*.lib
-*.dll
+# Compiled artifacts (except build)
+# *.obj
+# *.exe
+# *.pdb
+# *.ilk
+# *.lib
+# *.dll
 
 # OS / Local data
 Thumbs.db
 .DS_Store
 calib/
+
 
