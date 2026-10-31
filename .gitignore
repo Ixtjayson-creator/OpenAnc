@@ -1,0 +1,24 @@
+# Build outputs
+build/
+bin/
+out/
+
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Compiled artifacts
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+
+# OS / Local data
+Thumbs.db
+.DS_Store
+calib/
